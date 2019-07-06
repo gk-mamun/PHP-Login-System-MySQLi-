@@ -1,0 +1,20 @@
+body {
+  background-color: #dddddd;
+}
+#user-msg {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#register-form, #login-form {
+  width: 70%;
+  padding: 30px;
+  background-color: #ffffff;
+  margin: 10px auto 5px auto;
+}
+
+#logout-btn {
+  margin-left: 70%;
+}
